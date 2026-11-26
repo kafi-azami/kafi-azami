@@ -67,11 +67,3 @@ const kafi = {
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafi-azami&layout=compact&hide_border=true&title_color=9ADBD5&text_color=C9D1D9&bg_color=0D1117" alt="Most used languages" />
 </div><div align="center">
   <img src="https://streak-stats.demolab.com?user=kafi-azami&hide_border=true&background=0D1117&ring=9ADBD5&fire=9ADBD5&currStreakLabel=9ADBD5&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
-</div>🐍 Contribution Animation
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kafi-azami/kafi-azami/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-</div>To enable the snake animation, add the GitHub Actions workflow from Platane/snk to this profile repository and configure it to publish the generated SVG to the output branch. Until the workflow is set up, this image may not appear.
-
-<div align="center">✨ Thanks for stopping by!
-<em>Learning by doing — one commit at a time.</em>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:9ADBD5,100:0D1117" width="100%" alt="Animated footer" /></div>
